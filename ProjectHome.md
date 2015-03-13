@@ -1,0 +1,1 @@
+This code is part of our robot location system based on AdaBoost and Haar-like features, in which simple haar-like features extractor and AdaBoost used in Computer vision has been implemented.
